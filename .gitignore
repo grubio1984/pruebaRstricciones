@@ -34,3 +34,4 @@
 
 # Ignora los ficheros bg-01.jpg bg-lt.jpg
 bg-??.jpg
+pass/*.txt
